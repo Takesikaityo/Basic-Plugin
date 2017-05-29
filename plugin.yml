@@ -1,0 +1,7 @@
+name: Example
+main: Example\Main
+version: 1.0.0
+api: [3.0.0]
+load: POSTWORLD
+author: developer
+website: https://takesikaityo.github.io
